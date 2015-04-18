@@ -1,0 +1,2 @@
+C:\Users\Xu\AndroidstudioProjects\Vuforia-demos\app\build\intermediates\classes\debug
+C:\Users\Xu\AndroidstudioProjects\Vuforia-demos\app\build\intermediates\pre-dexed\debug\Vuforia-0f2e2dc288d34cd41548045f4e4c33e40ef87a3c.jar
